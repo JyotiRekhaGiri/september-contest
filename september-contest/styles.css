@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, sans-serif;
+}
+
+nav{
+align-items: center;
+justify-content: center;
+padding-left: 2.5rem;
+}
+
+.second-footer{
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.second-footer img{
+padding-left: 2.5rem;
+border-radius: 2rem;
+position: relative;
+}
+.second-footer-one{
+width: 50%;
+position: absolute;
+z-index: 1;
+top: 80%;
+padding-left: 10%;
+}
+.chicken{
+   
+}
+
+.second-footer-two{
+width: 50%;
+position: absolute;
+top: 80%;
+left: 50%;
+}
+.second-footer-two h2{
+  display: flex; 
+  color: white; 
+}
+.second-footer-two p{
+    display: flex;
+    color: white;
+}
+
+.third-footer{
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+.third-footer-one{
+    width: 50%;
+}
+.third-footer-two{
+    width: 50%;
+}
+.middlenav{
+display: flex;
+justify-content: center;
+}
+.navbar-nav{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav-item{
+    margin: 0 10px;
+}
+hr{
+    color: black;
+    width: 100%;
+}
+.oni{
+    color: orangered;
+}
+.oni hr{
+    color: orangered;
+
+}
+.headerthree{
+    margin-top: 8rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.headerthree ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.footerall{
+    padding-top: 14rem;
+}
+footer a{
+    text-decoration: none;
+}
+.footerp{
+    padding-top: 1rem;
+}
+
+.signIn{
+    padding: 10px;
+    background-color: orangered;
+    border-radius: 1rem;
+    width: 6rem;
+    color: white;
+    border: transparent;
+}
+
+footer{
+    background-color: aliceblue;
+}
+
+.but{
+    border: transparent;
+    background-color: orangered;
+    padding: 0.4vw;
+    color: white;
+    border-radius: 1vw;
+    margin-left: 2vw;
+}
+.acce{
+    flex: row;
+    display: flex;
+    
+}
+.prod2 .card-body a{
+    width: auto;
+}
+
+.sec{
+    display: flex;
+    flex: row;
+    width: auto;
+}
+
+.card-body{
+    width: 100%;
+}
+.h2{
+    display: flex;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    color: orangered;
+}
+.firstone{
+    background-color: white;
+    border-color: transparent;
+    border-radius: 2rem;
+}
